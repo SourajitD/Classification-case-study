@@ -42,8 +42,7 @@ Solution Conceptualization:
 
 Method Identification:
 - Logistic Regression
-- Random Forest
-- K Nearest Neighbours
+- K Nearest Neighbors
 
 Realization of solution:
 - Evaluate performance metrics
